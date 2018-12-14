@@ -1,0 +1,25 @@
+_repo: Hallatunturin-lapset_58428
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Klemetti, Dagmar
+    gutenberg_agent_id: '49952'
+    url: http://www.gutenberg.org/2009/agents/49952
+creator:
+  author:
+    agent_name: Fittinghoff, Laura
+    gutenberg_agent_id: '49951'
+    url: http://www.gutenberg.org/2009/agents/49951
+description: ''
+gutenberg_issued: '2018-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58428'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Hallatunturin lapset
+url: http://www.gutenberg.org/ebooks/58428
